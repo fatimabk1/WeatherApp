@@ -1,13 +1,13 @@
 //
-//  MessengerCloneUITests.swift
-//  MessengerCloneUITests
+// WeatherAppUITests.swift
+// WeatherAppUITests
 //
 //  Created by Fatima Kahbi on 10/23/23.
 //
 
 import XCTest
 
-final class MessengerCloneUITests: XCTestCase {
+final class WeatherAppUITests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.

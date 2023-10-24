@@ -1,13 +1,13 @@
 //
-//  MessengerCloneUITestsLaunchTests.swift
-//  MessengerCloneUITests
+//  WeatherAppUITestsLaunchTests.swift
+//  WeatherAppUITests
 //
 //  Created by Fatima Kahbi on 10/23/23.
 //
 
 import XCTest
 
-final class MessengerCloneUITestsLaunchTests: XCTestCase {
+final class WeatherAppUITestsLaunchTests: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true
